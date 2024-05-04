@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/Junya Fukuda/python-monthly-topic-cli#readme"
-Issues = "https://github.com/Junya Fukuda/python-monthly-topic-cli/issues"
-Source = "https://github.com/Junya Fukuda/python-monthly-topic-cli"
+Documentation = "https://github.com/jrfk/python-monthly-topic-cli#readme"
+Issues = "https://github.com/jrfk/python-monthly-topic-cli/issues"
+Source = "https://github.com/jrfk/python-monthly-topic-cli"
 
 [project.scripts]
 python-monthly-topic-cli = "python_monthly_topic_cli.cli:python_monthly_topic_cli"
